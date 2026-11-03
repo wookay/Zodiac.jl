@@ -27,3 +27,6 @@
 𩵿 : 魚 曷
 鱹 : 魚 雚
 ```
+
+### References
+  * 鮮 https://youtube.com/watch?v=KkZNe7AZZv0
