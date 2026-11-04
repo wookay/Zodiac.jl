@@ -10,7 +10,7 @@
 | ♎︎ | ♎  | 斤 | Libra       | weighing scale |
 | ♏︎ | ♏  | 黽 | Scorpio     | scorpion       |
 | ♐︎ | ♐  | 馬 | Sagittarius | archer         |
-| ♑︎ | ♑  | 曷 | Capricorn   | goat-horned    |
+| ♑︎ | ♑  |    | Capricorn   | sea goat       |
 | ♒︎ | ♒  | 雚 | Aquarius    | water-bearer   |
 | ♓︎ | ♓  | 魚 | Pisces      | fishes         |
 
@@ -24,7 +24,7 @@
 䰺 : 魚 斤
 鱦 : 魚 黽
 鰢 : 魚 馬
-𩵿 : 魚 曷
+   :
 鱹 : 魚 雚
 ```
 
